@@ -1,0 +1,44 @@
+{
+    "cookies": "auth_token=32cc97c09e77cfe8e3d34e3df48680b109ac1cf3;ct0=1f193081b321a1e8c5c5536474289bf5a60267c82305a1caae5c77e3d7e6784665db88cb134edfc46e2b6422965d093383849740775b10638cf1fd4060fa0bd13c467a84238eca23bd06f09c06719cd8;",
+    "user": {
+        "id": 1826986127733178368,
+        "rest_id": 1826986127733178368,
+        "created_at": "2024-08-23 14:13:54+00:00",
+        "date": "2024-08-23 14:13:54+00:00",
+        "entities": {
+            "description": {
+                "urls": []
+            }
+        },
+        "description": null,
+        "bio": null,
+        "fast_followers_count": 0,
+        "favourites_count": 0,
+        "followers_count": 0,
+        "friends_count": 1,
+        "has_custom_timelines": false,
+        "is_translator": false,
+        "listed_count": 0,
+        "location": null,
+        "media_count": 0,
+        "name": "arm arm",
+        "normal_followers_count": 0,
+        "profile_banner_url": null,
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1826986227075358720/N1ANdz6c_normal.png",
+        "profile_interstitial_type": null,
+        "protected": false,
+        "screen_name": "armarm652961603",
+        "username": "armarm652961603",
+        "statuses_count": 0,
+        "translator_type": "none",
+        "verified": false,
+        "can_dm": true,
+        "following": false,
+        "community_role": null,
+        "notifications_enabled": false,
+        "notifications": false,
+        "possibly_sensitive": false,
+        "pinned_tweets": null,
+        "profile_url": "https://twitter.com/armarm652961603"
+    }
+}
