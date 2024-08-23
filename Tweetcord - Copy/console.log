@@ -1,0 +1,8 @@
+2024-08-23 21:54:54 INFO     __main__ -> Trap#5253 is online
+2024-08-23 21:54:56 INFO     src.notification.account_tracker -> alive tasks : []
+2024-08-23 21:54:56 INFO     src.notification.account_tracker -> tweets updater : alive
+2024-08-23 21:54:56 INFO     __main__ -> synced 5 slash commands
+2024-08-23 21:57:57 INFO     cogs.notification -> successfully turned on notification for renewszero
+2024-08-23 21:57:57 INFO     src.notification.account_tracker -> new task renewszero added successfully
+2024-08-23 21:57:58 INFO     src.notification.account_tracker -> existing TasksMonitor has been closed
+2024-08-23 21:57:58 INFO     src.notification.account_tracker -> new TasksMonitor has been started
